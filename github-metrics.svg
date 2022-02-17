@@ -441,14 +441,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 11 edited files from 27 commits over last 7 days</small>
+                <small>estimation from 11 edited files from 28 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.5540032240731" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="389.5540032240731" y="0" width="70.44599677592693" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.44708423326136" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="391.44708423326136" y="0" width="68.55291576673865" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -461,7 +461,7 @@
                             </div>
                             <small>
                                 <div>1.58 kB</div>
-                                <div>84.69%</div>
+                                <div>85.1%</div>
                             </small>
                         </div>
                     </section>
@@ -474,8 +474,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>285 bytes</div>
-                                <div>15.31%</div>
+                                <div>276 bytes</div>
+                                <div>14.9%</div>
                             </small>
                         </div>
                     </section>
@@ -2652,7 +2652,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.88021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.0924024640657155 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2999,7 +2999,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2022, 09:06:59  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 10:02:14  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

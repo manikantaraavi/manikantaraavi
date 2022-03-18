@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1811" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1791" class="">
     <defs>
         <style/>
     </defs>
@@ -441,43 +441,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 12 edited files from 16 commits over last 7 days</small>
+                <small>estimation from 9 edited files from 15 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.80542071197414" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="417.80542071197414" y="0" width="23.07443365695793" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="440.87985436893206" y="0" width="19.120145631067963" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.5545755237045" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="251.5545755237045" y="0" width="208.4454244762955" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Makefile
-                            </div>
-                            <small>
-                                <div>8.98 kB</div>
-                                <div>90.83%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Java
-                            </div>
-                            <small>
-                                <div>411 bytes</div>
-                                <div>4.16%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -488,7 +461,21 @@
                             </div>
                             <small>
                                 <div>496 bytes</div>
-                                <div>5.02%</div>
+                                <div>54.69%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Java
+                            </div>
+                            <small>
+                                <div>411 bytes</div>
+                                <div>45.31%</div>
                             </small>
                         </div>
                     </section>
@@ -2965,7 +2952,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.03m out of 289m repositories</span>
+                                    <span class="gh">ranked 4.03m out of 290m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3017,7 +3004,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Mar 2022, 06:05:36  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 18 Mar 2022, 07:03:04  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

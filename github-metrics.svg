@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.7443526812908" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="431.7443526812908" y="0" width="19.629755904355232" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="451.374108585646" y="0" width="4.704000380148486" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="456.0781089657945" y="0" width="1.4113771200651606" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.48948608585965" y="0" width="1.3474085845209125" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.83689467038056" y="0" width="0.44463855524261536" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.28153322562315" y="0" width="0.4445712777936665" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.7261045034168" y="0" width="0.273895496583111" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.0358938687999" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="442.0358938687999" y="0" width="10.048012133374586" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="452.0839060021745" y="0" width="4.81573516506579" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="456.89964116724025" y="0" width="1.2759052931701433" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.17554646041043" y="0" width="0.9294823864008228" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.10502884681125" y="0" width="0.4552001175982728" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.56022896440953" y="0" width="0.299570348106007" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.8597993125155" y="0" width="0.14020068748451175" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -346,8 +346,8 @@
                                 C
                             </div>
                             <small>
-                                <div>911 MB</div>
-                                <div>93.86%</div>
+                                <div>1.82 GB</div>
+                                <div>96.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -358,8 +358,8 @@
                                 Assembly
                             </div>
                             <small>
-                                <div>9.93 MB</div>
-                                <div>1.02%</div>
+                                <div>19.8 MB</div>
+                                <div>1.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -370,8 +370,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>2.84 MB</div>
-                                <div>0.29%</div>
+                                <div>3.83 MB</div>
+                                <div>0.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -382,8 +382,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>938 kB</div>
-                                <div>0.1%</div>
+                                <div>1.24 MB</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
@@ -397,7 +397,7 @@
                             </div>
                             <small>
                                 <div>41.4 MB</div>
-                                <div>4.27%</div>
+                                <div>2.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -408,8 +408,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>2.98 MB</div>
-                                <div>0.31%</div>
+                                <div>5.26 MB</div>
+                                <div>0.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -420,7 +420,7 @@
                                 Perl
                             </div>
                             <small>
-                                <div>938 kB</div>
+                                <div>1.88 MB</div>
                                 <div>0.1%</div>
                             </small>
                         </div>
@@ -433,7 +433,7 @@
                             </div>
                             <small>
                                 <div>578 kB</div>
-                                <div>0.06%</div>
+                                <div>0.03%</div>
                             </small>
                         </div>
                     </section>
@@ -441,7 +441,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3 edited files from 7 commits over last 6 days</small>
+                <small>estimation from 3 edited files from 14 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2959,7 +2959,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2022, 15:02:32  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 16:04:32  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

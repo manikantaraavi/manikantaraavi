@@ -30,15 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Manikantaraavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="Manikantaraavi" /></a></p><br><br>
 
-## Metrics
-![Metrics](https://github.com/manikantaraavi/manikantaraavi/blob/main/github-metrics.svg)  
-
-## Stats
-![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikantaraavi&show_icons=true&theme=dark)
-
-## Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manikantaraavi&theme=dark)](https://git.io/streak-stats)
-
 ## Languages
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantaraavi&theme=dark&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=5" />

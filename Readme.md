@@ -28,13 +28,8 @@
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="41"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Manikantaraavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="Manikantaraavi" /></a></p><br><br>
-
-## Languages
-<a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantaraavi&theme=dark&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=5" />
-</a>
-<a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?
-                           
+<p><a href="https://www.buymeacoffee.com/Manikantaraavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="Manikantaraavi" /></a></p><br><be>
+ 
+## Metrics
+![Metrics](https://github.com/manikantaraavi/manikantaraavi/blob/main/github-metrics.svg)  
                            

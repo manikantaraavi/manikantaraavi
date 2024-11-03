@@ -18,9 +18,7 @@
 
 
 ## Spotify Playing🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&redirect=true)
-
- 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rcoawotwtwdsv2iywgnkum42pe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantaraavi&label=Profile%20views&color=0e75b6&style=flat" alt="manikantaraavi" /> </p>
 

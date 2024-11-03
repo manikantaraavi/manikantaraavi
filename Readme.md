@@ -34,7 +34,7 @@
 ![Metrics](https://github.com/manikantaraavi/manikantaraavi/blob/main/github-metrics.svg)  
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikantaraavi&show_icons=true&theme=dark)
+![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikantaraavi&show_icons=true&theme=dark)
 
 ## Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manikantaraavi&theme=dark)](https://git.io/streak-stats)
